@@ -6,7 +6,7 @@ body, html {
 .content {            /* aici modifici text si video content DONE*/
   box-sizing: border-box;
   height: 100%;
-  background-color: rgb(255, 175, 175);
+  background-color: rgb(98, 98, 98);
   font: 60px arial;
   text-align: center;
 }
